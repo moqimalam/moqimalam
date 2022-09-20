@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moqimalam
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning MERN stack 
-<!--     - 💞️ I’m looking to collaborate on ... --->
+- 🌱 I’m currently learning MERN stack <!--     - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me moqimalam786@gmail.com
 
 <!---
